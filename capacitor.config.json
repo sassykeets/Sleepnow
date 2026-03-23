@@ -1,0 +1,1 @@
+{\n  "appId": "com.sassykeets.sleepnow",\n  "appName": "Sleep Now",\n  "webDir": "build",\n  "bundledWebRuntime": false,\n  "npmClient": "npm",\n  "plugins": {\n    "cordova-plugin-device": {},\n    "cordova-plugin-geolocation": {}\n  },\n  "platforms": [\n    "ios",\n    "android"\n  ]\n}
